@@ -1,0 +1,25 @@
+Marina Courtieu Homework 2 Bug Report
+
+BUG REPORT n°1
+Koel application| Equilizer Bar|
+Doesn’t show Equilizer Bar Effects
+
+ 
+Labels : Team’s name / Marina
+Environment : Windows 10
+
+Description:
+Steps to reproduce:
+1.	Start play any music
+2.	Click on Equilizer Bar icon on the bottom right control panel
+Expected result: Equilizer Bar effects starts to perform.
+Actual results: Nothing happen
+Note: EquilizerBar icon
+Attachment: DROP screen-short or reference
+
+                                                                                     
+	PEOPLE
+Assignee :Developpers
+Reporter :Marina
+
+

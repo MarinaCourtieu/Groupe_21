@@ -1,0 +1,16 @@
+CheckList 1
+Enregistrement
+Email
+Réseaux sociaux
+Validation des marges
+Identification
+l'utilisateur est activé
+l'utilisateur n'est pas activé
+Restauration de mot de passe
+Validation des marges
+Profil
+Changement du nom
+Changement d'email
+Validation des marges
+Abonnement
+Suppretion du compte
